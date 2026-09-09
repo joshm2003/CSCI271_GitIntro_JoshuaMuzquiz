@@ -2,4 +2,4 @@
 This is my very first repository on GitHub!
 **Author:** Joshua Muzquiz
 **Date Created:** Sepetember, 8 2026
-**Purpose:** Practicing GitHub basics, including creating a repository and a README file.
+**Purpose:** This repository is used to practice Git and GitHub Workflows
