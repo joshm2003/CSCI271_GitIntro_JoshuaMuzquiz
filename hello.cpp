@@ -1,4 +1,4 @@
-// CSCI 27X - GitHub Upload Practice
+// CSCI 271 - GitHub Upload Practice
 // Name: Joshua Muzquiz
 // Section: MCSCI-271-1290
 
