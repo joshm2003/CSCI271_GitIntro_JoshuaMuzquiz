@@ -1,4 +1,4 @@
-# CSCI271_GitIntro_JoshuaMuzquiz
+# My First GitHub Repository
 This is my very first repository on GitHub!
 **Author:** Joshua Muzquiz
 **Date Created:** Sepetember, 8 2026
